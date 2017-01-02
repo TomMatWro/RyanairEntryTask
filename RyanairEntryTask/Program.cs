@@ -10,6 +10,7 @@ namespace RyanairEntryTask
     {
         static void Main(string[] args)
         {
+            var empl1 = new Employee(160, 10, Location.Ireland);
         }
     }
 }
