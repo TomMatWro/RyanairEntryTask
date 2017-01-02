@@ -1,4 +1,4 @@
-﻿namespace RyanairEntryTask
+﻿namespace RyanairEntryTask.Core
 {
     public class Results
     {
